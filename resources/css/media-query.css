@@ -16,6 +16,11 @@
 		margin-top:90px;
 	}
 
+	.log-box{
+		width: 70%;
+		height: 50%
+	}
+
 }
 
 /* Smaller tablets to larger tablet screens*/
